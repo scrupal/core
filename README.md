@@ -6,6 +6,8 @@
 [![Stories in Ready](https://badge.waffle.io/scrupal/scrupal-core.svg?label=ready&title=Ready)](http://waffle.io/scrupal/scrupal-core)
 
 # scrupal-core
+
+[![Join the chat at https://gitter.im/scrupal/scrupal-core](https://badges.gitter.im/scrupal/scrupal-core.svg)](https://gitter.im/scrupal/scrupal-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the core (most fundamental) module of Scrupal, a reactive content management system and
 web framework based on Play Framework. It provides a content management system based on asynchronous processing,
 non-blocking I/O, the actor model, publish and subscribe events and with sufficient hooks and modularity for extension.
